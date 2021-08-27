@@ -1,6 +1,13 @@
-## Welcome to my website
+## Brenden Bowen's First CS193 Homework
 
 My name is Brenden Bowen and I am a freshman!
+
+My favorite things about CS193 are:
+
+- Easy quizzes
+- GPA Booster
+- Useful
+- Later down the road, this class will be really important
 
 I am going to leave the rest of this here so I can return to it and see how to format my website.
 
